@@ -1,4 +1,45 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ernad Mujakic's KB]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://emujakic.github.io/TechKB/</link><image><url>https://emujakic.github.io/TechKB/site-lib/media/favicon.png</url><title>Ernad Mujakic's KB</title><link>https://emujakic.github.io/TechKB/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 05 Aug 2025 15:59:47 GMT</lastBuildDate><atom:link href="https://emujakic.github.io/TechKB/site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 05 Aug 2025 15:59:46 GMT</pubDate><copyright><![CDATA[Ernad Mujakic]]></copyright><ttl>60</ttl><dc:creator>Ernad Mujakic</dc:creator><item><title><![CDATA[Contact]]></title><description><![CDATA[
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ernad Mujakic's KB]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://emujakic.github.io/TechKB/</link><image><url>https://emujakic.github.io/TechKB/site-lib/media/favicon.png</url><title>Ernad Mujakic's KB</title><link>https://emujakic.github.io/TechKB/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 05 Aug 2025 16:05:12 GMT</lastBuildDate><atom:link href="https://emujakic.github.io/TechKB/site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 05 Aug 2025 16:05:12 GMT</pubDate><copyright><![CDATA[Ernad Mujakic]]></copyright><ttl>60</ttl><dc:creator>Ernad Mujakic</dc:creator><item><title><![CDATA[Index]]></title><description><![CDATA[<a href="https://emujakic.github.io/TechKB/notes/math/propositional-logic.html#_0" target="_self" rel="noopener noreferrer" from="0" to="19" origin-text="Propositional Logic" class="internal-link virtual-link-a">Propositional Logic</a><br><a href="https://emujakic.github.io/TechKB/notes/math/manhattan-distance.html#_0" target="_self" rel="noopener noreferrer" from="0" to="18" origin-text="Manhattan Distance" class="internal-link virtual-link-a">Manhattan Distance</a><br><a href="https://emujakic.github.io/TechKB/notes/math/transitive-property.html#_0" target="_self" rel="noopener noreferrer" from="0" to="19" origin-text="Transitive Property" class="internal-link virtual-link-a">Transitive Property</a>Number of Notes Total: 22
+<br><a data-href="Computer Architecture" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Computer Architecture</a>
+<br><a data-href="Digital Logic Design" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Digital Logic Design</a> Boolean Algebra <br><a data-href="Operating Systems" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Operating Systems</a>
+Embedded Systems
+Computer Networks <br><a data-href="Programming Basics" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Programming Basics</a>
+<br><a data-href="Data Structures and Algorithms" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Data Structures and Algorithms</a>
+<br><a data-href="Software Engineering" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Software Engineering</a>
+<br><a data-href="Web Development" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Web Development</a>
+<br><a data-href="Database Systems" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Database Systems</a>
+<br><a data-href="Theory of Computation" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Theory of Computation</a> <br><a data-href="Machine Learning" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Machine Learning</a> Supervised Learning
+Unsupervised Learning
+Reinforcement Learning <br><a data-href="Deep Learning" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Deep Learning</a> <br><a data-href="Neural Network" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Neural Network</a>
+<br><a data-href="Convolutional Neural Network" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Convolutional Neural Network</a>
+<br><a data-href="Recurrent Neural Network" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Recurrent Neural Network</a>
+Self-Organizing Maps AI Tools <br><a data-href="PyTorch" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">PyTorch</a>
+<br><a data-href="Scikit-Learn" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Scikit-Learn</a>
+<br><a data-href="OpenCV" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">OpenCV</a>
+<br><a data-href="Natural Language Processing" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Natural Language Processing</a>
+<br><a data-href="Computer Vision" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Computer Vision</a>
+<br><a data-href="Robotics" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Robotics</a> AI Algorithms Genetic Algorithms &amp; Evolutionary Methods
+Bayesian Methods
+Graph Algorithms Data Mining Data Preprocessing
+Data Exploration
+Data Mining Techniques <br><a data-href="Algebra" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Algebra</a>
+Geometry
+Trigonometry
+Calculus
+<br><a data-href="Probability" href="https://emujakic.github.io/TechKB/notes/math/probability.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Probability</a>
+Statistics
+Set Theory
+Logics <br><a data-href="Propositional Logic" href="https://emujakic.github.io/TechKB/notes/math/propositional-logic.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Propositional Logic</a>
+First-Order Logic
+Predicate Logic
+Temporal Logic
+Modal Logic Linear Algebra
+Discrete Mathematics Basic Electrical Concepts
+Ohm's Law and Kirchhoff's Laws
+Circuit Analysis
+Electromagnetism
+Analog Electronics
+Digital Electronics
+]]></description><link>https://emujakic.github.io/TechKB/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Ernad Mujakic]]></dc:creator><pubDate>Tue, 05 Aug 2025 16:04:41 GMT</pubDate></item><item><title><![CDATA[Contact]]></title><description><![CDATA[
 <a data-tooltip-position="top" aria-label="https://www.ernadm.com" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.ernadm.com" target="_self">Personal Website</a>
 <br><a data-tooltip-position="top" aria-label="https://www.https://github.com/eMujakic" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.https://github.com/eMujakic" target="_self">Github</a>
 <br><a data-tooltip-position="top" aria-label="https://www.linkedin.com/in/ernad-mujakic-a13085362/" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.linkedin.com/in/ernad-mujakic-a13085362/" target="_self">LinkedIn</a>
@@ -226,48 +267,7 @@ Wikipedia Contributors, “Rule of replacement,”&nbsp;Wikipedia, Mar. 03, 2025
 Wikipedia Contributors, “Resolution (logic),”&nbsp;Wikipedia, May 28, 2025.
 <br>“Introduction to Logic - Chapter 6,”&nbsp;Stanford.edu, 2025. <a rel="noopener nofollow" class="external-link is-unresolved" href="http://intrologic.stanford.edu/chapters/chapter_06.html" target="_self">http://intrologic.stanford.edu/chapters/chapter_06.html</a> (accessed Aug. 05, 2025).
 <br>Wikipedia Contributors, “Horn clause,”&nbsp;Wikipedia, Dec. 18, 2019. <a rel="noopener nofollow" class="external-link is-unresolved" href="https://en.wikipedia.org/wiki/Horn_clause" target="_self">https://en.wikipedia.org/wiki/Horn_clause</a>
-]]></description><link>https://emujakic.github.io/TechKB/notes/math/propositional-logic.html</link><guid isPermaLink="false">NOTES/Math/Propositional Logic.md</guid><dc:creator><![CDATA[Ernad Mujakic]]></dc:creator><pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[Author: <a data-tooltip-position="top" aria-label="Contact" data-href="Contact" href="https://emujakic.github.io/TechKB/contact.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Ernad Mujakic</a><br><a href="https://emujakic.github.io/TechKB/notes/math/propositional-logic.html#_0" target="_self" rel="noopener noreferrer" from="0" to="19" origin-text="Propositional Logic" class="internal-link virtual-link-a">Propositional Logic</a><br><a href="https://emujakic.github.io/TechKB/notes/math/manhattan-distance.html#_0" target="_self" rel="noopener noreferrer" from="0" to="18" origin-text="Manhattan Distance" class="internal-link virtual-link-a">Manhattan Distance</a><br><a href="https://emujakic.github.io/TechKB/notes/math/transitive-property.html#_0" target="_self" rel="noopener noreferrer" from="0" to="19" origin-text="Transitive Property" class="internal-link virtual-link-a">Transitive Property</a>Number of Notes Total: 22
-<br><a data-href="Computer Architecture" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Computer Architecture</a>
-<br><a data-href="Digital Logic Design" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Digital Logic Design</a> Boolean Algebra <br><a data-href="Operating Systems" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Operating Systems</a>
-Embedded Systems
-Computer Networks <br><a data-href="Programming Basics" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Programming Basics</a>
-<br><a data-href="Data Structures and Algorithms" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Data Structures and Algorithms</a>
-<br><a data-href="Software Engineering" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Software Engineering</a>
-<br><a data-href="Web Development" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Web Development</a>
-<br><a data-href="Database Systems" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Database Systems</a>
-<br><a data-href="Theory of Computation" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Theory of Computation</a> <br><a data-href="Machine Learning" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Machine Learning</a> Supervised Learning
-Unsupervised Learning
-Reinforcement Learning <br><a data-href="Deep Learning" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Deep Learning</a> <br><a data-href="Neural Network" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Neural Network</a>
-<br><a data-href="Convolutional Neural Network" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Convolutional Neural Network</a>
-<br><a data-href="Recurrent Neural Network" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Recurrent Neural Network</a>
-Self-Organizing Maps AI Tools <br><a data-href="PyTorch" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">PyTorch</a>
-<br><a data-href="Scikit-Learn" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Scikit-Learn</a>
-<br><a data-href="OpenCV" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">OpenCV</a>
-<br><a data-href="Natural Language Processing" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Natural Language Processing</a>
-<br><a data-href="Computer Vision" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Computer Vision</a>
-<br><a data-href="Robotics" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Robotics</a> AI Algorithms Genetic Algorithms &amp; Evolutionary Methods
-Bayesian Methods
-Graph Algorithms Data Mining Data Preprocessing
-Data Exploration
-Data Mining Techniques <br><a data-href="Algebra" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Algebra</a>
-Geometry
-Trigonometry
-Calculus
-<br><a data-href="Probability" href="https://emujakic.github.io/TechKB/notes/math/probability.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Probability</a>
-Statistics
-Set Theory
-Logics <br><a data-href="Propositional Logic" href="https://emujakic.github.io/TechKB/notes/math/propositional-logic.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Propositional Logic</a>
-First-Order Logic
-Predicate Logic
-Temporal Logic
-Modal Logic Linear Algebra
-Discrete Mathematics Basic Electrical Concepts
-Ohm's Law and Kirchhoff's Laws
-Circuit Analysis
-Electromagnetism
-Analog Electronics
-Digital Electronics
-]]></description><link>https://emujakic.github.io/TechKB/index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Ernad Mujakic]]></dc:creator><pubDate>Tue, 05 Aug 2025 13:06:42 GMT</pubDate></item><item><title><![CDATA[Associative Property]]></title><description><![CDATA[Author: Ernad Mujakic
+]]></description><link>https://emujakic.github.io/TechKB/notes/math/propositional-logic.html</link><guid isPermaLink="false">NOTES/Math/Propositional Logic.md</guid><dc:creator><![CDATA[Ernad Mujakic]]></dc:creator><pubDate>Sat, 02 Aug 2025 00:00:00 GMT</pubDate></item><item><title><![CDATA[Associative Property]]></title><description><![CDATA[Author: Ernad Mujakic
 Date: 2025-07-19The associative property states that the sum or product of any group of values is not affected by how the values are grouped. It allows you to transform mathematical expressions into equivalent forms without altering its value.The associative property applies to addition. For any numbers , and :The associative property applies to multiplication. For any numbers , and :The associative property applies to matrix multiplication as well. For matrices , , and with compatible dimensions:Operations such as subtraction or division are not associative:
 Subtraction: Division: In <a data-href="Propositional Logic" href="https://emujakic.github.io/TechKB/notes/math/propositional-logic.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Propositional Logic</a>, associativity is a rule of replacement that applies to some <a data-href="Logical Connectives" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Logical Connectives</a>, allowing for the rearrangement of grouping symbols without changing the truth value of the logical expression.Associativity applies to conjunction (AND), for any variables , , and :Associativity applies to disjunction (OR), for any variables , , and :<br>In set theory, the associative property refers to how the <a data-href="Union" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Union</a> and <a data-href="Intersection" href="https://emujakic.github.io/TechKB/.html" class="internal-link" target="_self" rel="noopener nofollow">Intersection</a> of sets can be grouped without altering the outcome of the expression.for any sets , , and :for any sets , , and :<br>The <a href="https://emujakic.github.io/TechKB/notes/math/commutative-property.html#_0" target="_self" rel="noopener noreferrer" from="4" to="24" origin-text="commutative property" class="internal-link virtual-link-a">commutative property</a> states of values does not effect their sum or product.
 Addition: Multiplication: <br>Note that the <a href="https://emujakic.github.io/TechKB/notes/math/commutative-property.html#_0" target="_self" rel="noopener noreferrer" from="14" to="34" origin-text="commutative property" class="internal-link virtual-link-a">commutative property</a> does not apply to matrix multiplication.
